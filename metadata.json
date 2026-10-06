@@ -1,0 +1,6 @@
+{
+  "name": "Ira - AI Personal Assistant",
+  "description": "Ira is your personal AI assistant for Android with Google Workspace integration, voice conversations, creative image and video generation, and high-level reasoning.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
